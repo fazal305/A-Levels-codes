@@ -1,0 +1,14 @@
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\bin\Debug\net8.0\THEDATA Array.exe
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\bin\Debug\net8.0\THEDATA Array.deps.json
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\bin\Debug\net8.0\THEDATA Array.runtimeconfig.json
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\bin\Debug\net8.0\THEDATA Array.dll
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\bin\Debug\net8.0\THEDATA Array.pdb
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\obj\Debug\net8.0\THEDATA Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\obj\Debug\net8.0\THEDATA Array.AssemblyInfoInputs.cache
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\obj\Debug\net8.0\THEDATA Array.AssemblyInfo.vb
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\obj\Debug\net8.0\THEDATA Array.vbproj.CoreCompileInputs.cache
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\obj\Debug\net8.0\THEDATA Array.dll
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\obj\Debug\net8.0\refint\THEDATA Array.dll
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\obj\Debug\net8.0\THEDATA Array.pdb
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\obj\Debug\net8.0\THEDATA Array.genruntimeconfig.cache
+D:\A Levels codes\A-Levels-Codes\visual basic codes\THEDATA Array\THEDATA Array\THEDATA Array\obj\Debug\net8.0\ref\THEDATA Array.dll
